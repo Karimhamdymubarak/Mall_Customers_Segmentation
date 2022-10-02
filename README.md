@@ -1,2 +1,3 @@
 # Mall_Customers_Segmentation
-# Description
+### Description
+This repo to demonstrate of the K-means algorithm in clustering Customers data
